@@ -1,0 +1,2 @@
+(this.webpackJsonpfoodify=this.webpackJsonpfoodify||[]).push([[0],{10:function(n,o,t){"use strict";t.r(o);var e=t(3),c=t.n(e),i=(t(8),t(0));var r=function(){return Object(i.jsx)("h1",{children:"Foodify"})};c.a.render(Object(i.jsx)(r,{}),document.getElementById("root"))},8:function(n,o,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.a2a51dab.chunk.js.map

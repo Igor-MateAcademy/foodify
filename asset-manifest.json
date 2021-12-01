@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Igor-MateAcademy/foodify/static/css/main.6374cc68.chunk.css",
+    "main.js": "/Igor-MateAcademy/foodify/static/js/main.a2a51dab.chunk.js",
+    "main.js.map": "/Igor-MateAcademy/foodify/static/js/main.a2a51dab.chunk.js.map",
+    "runtime-main.js": "/Igor-MateAcademy/foodify/static/js/runtime-main.18769fd6.js",
+    "runtime-main.js.map": "/Igor-MateAcademy/foodify/static/js/runtime-main.18769fd6.js.map",
+    "static/js/2.d0678fa5.chunk.js": "/Igor-MateAcademy/foodify/static/js/2.d0678fa5.chunk.js",
+    "static/js/2.d0678fa5.chunk.js.map": "/Igor-MateAcademy/foodify/static/js/2.d0678fa5.chunk.js.map",
+    "index.html": "/Igor-MateAcademy/foodify/index.html",
+    "static/css/main.6374cc68.chunk.css.map": "/Igor-MateAcademy/foodify/static/css/main.6374cc68.chunk.css.map",
+    "static/js/2.d0678fa5.chunk.js.LICENSE.txt": "/Igor-MateAcademy/foodify/static/js/2.d0678fa5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18769fd6.js",
+    "static/js/2.d0678fa5.chunk.js",
+    "static/css/main.6374cc68.chunk.css",
+    "static/js/main.a2a51dab.chunk.js"
+  ]
+}
